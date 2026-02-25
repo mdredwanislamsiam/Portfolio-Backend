@@ -1,0 +1,184 @@
+[
+    {
+      "model": "research.research",
+      "pk": 1,
+      "fields": {
+        "user": 2,
+        "title": "Board Gender Diversity and the Portfolio Credit Risk of Microfinance Institutions (MFIs): A Critical Mass Theory Perspective",
+        "description": "",
+        "link": "https://doi.org/10.1111/basr.70034",
+        "researchers": "Md Imran Hossain, Md Aslam Mia",
+        "date": null,
+        "journal": "Business and Society Review",
+        "volume_page": "Vol. 131, No. 1, e70034"
+      }
+    },
+    {
+      "model": "research.research",
+      "pk": 2,
+      "fields": {
+        "user": 2,
+        "title": "Does the efficiency wage reduce the credit risk of microfinance institutions? Global evidence",
+        "description": "",
+        "link": "https://doi.org/10.1111/apce.70032",
+        "researchers": "Md Imran Hossain, Md Aslam Mia, Chee Wooi Hooy",
+        "date": null,
+        "journal": "Annals of Public and Cooperative Economics",
+        "volume_page": "Article e70032"
+      }
+    },
+    {
+      "model": "research.research",
+      "pk": 3,
+      "fields": {
+        "user": 2,
+        "title": "Board gender diversity and donations in the microfinance industry: evidence from emerging economies",
+        "description": "",
+        "link": "https://doi.org/10.1080/20430795.2024.2393237",
+        "researchers": "Md Aslam Mia, Sunil Sangwan, Md Imran Hossain",
+        "date": "2024-01-01",
+        "journal": "Journal of Sustainable Finance & Investment",
+        "volume_page": "2024, pp. 1–31"
+      }
+    },
+    {
+      "model": "research.research",
+      "pk": 4,
+      "fields": {
+        "user": 2,
+        "title": "Data Envelopment Analysis in Microfinance Research: A Systematic Review",
+        "description": "",
+        "link": "https://doi.org/10.1142/9781800615786_0010",
+        "researchers": "Md Imran Hossain, Md Aslam Mia",
+        "date": null,
+        "journal": "Handbook on Data Envelopment Analysis in Business, Finance, and Sustainability (World Scientific Publishing)",
+        "volume_page": "pp. 307–348"
+      }
+    },
+    {
+      "model": "research.research",
+      "pk": 5,
+      "fields": {
+        "user": 2,
+        "title": "Predicting the financial performance of microfinance institutions with machine learning techniques",
+        "description": "",
+        "link": "https://doi.org/10.1108/JM2-10-2023-0254",
+        "researchers": "Tang Ting, Md Aslam Mia, Md Imran Hossain, Khaw Khai Wah",
+        "date": null,
+        "journal": "Journal of Modelling in Management",
+        "volume_page": "Ahead-of-print"
+      }
+    },
+    {
+      "model": "research.research",
+      "pk": 6,
+      "fields": {
+        "user": 2,
+        "title": "Sand or grease effect? The impact of Islamic banking on the social mission of microfinance institutions",
+        "description": "",
+        "link": "https://doi.org/10.1108/IMEFM-04-2024-0191",
+        "researchers": "Md Imran Hossain, Adamu Jibir, Md Aslam Mia, Musa Abdu, Swati Chauhan",
+        "date": null,
+        "journal": "International Journal of Islamic and Middle Eastern Finance and Management",
+        "volume_page": "Ahead-of-print"
+      }
+    },
+    {
+      "model": "research.research",
+      "pk": 7,
+      "fields": {
+        "user": 2,
+        "title": "Determinants of digitalization: Evidence from Asia and the Pacific countries",
+        "description": "",
+        "link": "https://doi.org/10.1108/DTS-10-2023-0097",
+        "researchers": "Md Aslam Mia, Md Imran Hossain, Sunil Sangwan",
+        "date": null,
+        "journal": "Digital Transformation and Society",
+        "volume_page": "Ahead-of-print"
+      }
+    },
+    {
+      "model": "research.research",
+      "pk": 8,
+      "fields": {
+        "user": 2,
+        "title": "Is it worth having more female managers? A portfolio risk perspective from the global microfinance industry",
+        "description": "",
+        "link": "https://doi.org/10.1002/bsd2.333",
+        "researchers": "Md Imran Hossain, Md Aslam Mia",
+        "date": null,
+        "journal": "Business Strategy & Development",
+        "volume_page": "Vol. 7, No. 1, e333"
+      }
+    },
+    {
+      "model": "research.research",
+      "pk": 9,
+      "fields": {
+        "user": 2,
+        "title": "A systematic review of gender diversity and its impact on the performance of Microfinance Institutions",
+        "description": "",
+        "link": "https://link.springer.com/article/10.1186/s43093-023-00294-1",
+        "researchers": "Md Imran Hossain, Md Aslam Mia, Chee Wooi Hooy",
+        "date": "2024-01-01",
+        "journal": "Future Business Journal",
+        "volume_page": "Vol. 10, Art. No. 9 (2024)"
+      }
+    },
+    {
+      "model": "research.research",
+      "pk": 10,
+      "fields": {
+        "user": 2,
+        "title": "Employee Turnover and the Credit Risk of Microfinance Institutions (MFIs): International Evidence",
+        "description": "",
+        "link": "https://doi.org/10.1016/j.bir.2023.04.001",
+        "researchers": "Md Imran Hossain, Md Aslam Mia, Chee Wooi Hooy",
+        "date": "2023-01-01",
+        "journal": "Borsa Istanbul Review",
+        "volume_page": "Vol. 23, No. 4, pp. 936–952 (2023)"
+      }
+    },
+    {
+      "model": "research.research",
+      "pk": 11,
+      "fields": {
+        "user": 2,
+        "title": "The Impact of Board Gender Diversity on the Financing Costs of Microfinance Institutions: A Global Evidence",
+        "description": "",
+        "link": "https://www.emerald.com/insight/content/doi/10.1108/JFRA-04-2022-0125/full/html",
+        "researchers": "Md Aslam Mia, Tanzina Hossain, Zinnatun Nesa, Md Khaled Saifullah, Rozina Akhter, Md Imran Hossain",
+        "date": "2022-01-01",
+        "journal": "Journal of Financial Reporting and Accounting",
+        "volume_page": "Vol. 23, No. 3, pp. 876–901 (2022)"
+      }
+    },
+    {
+      "model": "research.research",
+      "pk": 12,
+      "fields": {
+        "user": 2,
+        "title": "Effects of Non-Performing Loan on Financial Performance: A Hypothetical Evaluation on All Scheduled Banks in Bangladesh",
+        "description": "",
+        "link": "https://www.researchgate.net/publication/354528558_Effects_of_Non-Performing_Loan_on_Financial_Performance_A_Hypothetical_Evaluation_on_All_Scheduled_Banks_in_Bangladesh",
+        "researchers": "Md Al-Amin, Md Siddikur Rahman, Md Imran Hossain",
+        "date": "2021-01-01",
+        "journal": "Journal of International Business and Management",
+        "volume_page": "Vol. 4, Issue 9, pp. 1–18 (2021)"
+      }
+    },
+    {
+      "model": "research.research",
+      "pk": 13,
+      "fields": {
+        "user": 2,
+        "title": "The relationship between corporate social responsibility and corporate financial performance: A study on IDLC Finance Limited",
+        "description": "",
+        "link": "https://www.researchgate.net/publication/341286858_The_relationship_between_corporate_social_responsibility_and_corporate_financial_performance_a_study_on_IDLC_Finance_Limited",
+        "researchers": "Md Imran Hossain, Shaikh Masrick Hasan",
+        "date": "2018-01-01",
+        "journal": "Jagannath University Journal of Business Studies",
+        "volume_page": "Vol. 6, No. 1 & 2, pp. 171–182 (2018)"
+      }
+    }
+  ]

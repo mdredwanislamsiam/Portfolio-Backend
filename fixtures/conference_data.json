@@ -1,0 +1,67 @@
+[
+    {
+      "model": "research.conference",
+      "pk": 1,
+      "fields": {
+        "user": 2,
+        "title": "International Joint E-Conference",
+        "short_title": "BLM2-ICAM4",
+        "link": null,
+        "organizers": "Taylor's University, University of Kelaniya",
+        "date": "2021-09-11",
+        "description": "International Joint E-Conference organized by Taylor's University and University of Kelaniya in 2021."
+      }
+    },
+    {
+      "model": "research.conference",
+      "pk": 2,
+      "fields": {
+        "user": 2,
+        "title": "24th Malaysian Finance Association International Conference",
+        "short_title": "MFAIC2022",
+        "link": null,
+        "organizers": "Malaysian Finance Association, University Malaysia Sabah",
+        "date": "2022-09-09",
+        "description": "24th Malaysian Finance Association International Conference organized by Malaysian Finance Association and University Malaysia Sabah in 2022."
+      }
+    },
+    {
+      "model": "research.conference",
+      "pk": 3,
+      "fields": {
+        "user": 2,
+        "title": "International Postgraduate Research Symposium 2022",
+        "short_title": "INPOS 2022",
+        "link": null,
+        "organizers": "School of Management, Universiti Sains Malaysia",
+        "date": "2022-10-25",
+        "description": "International Postgraduate Research Symposium 2022 organized by School of Management, Universiti Sains Malaysia."
+      }
+    },
+    {
+      "model": "research.conference",
+      "pk": 4,
+      "fields": {
+        "user": 2,
+        "title": "7th International Conference and PhD Colloquium for Economics and Business",
+        "short_title": "ICPC-EB 2023",
+        "link": null,
+        "organizers": "Faculty of Economics and Business, Universitas Airlangga",
+        "date": "2023-10-04",
+        "description": "7th International Conference and PhD Colloquium for Economics and Business held in Surabaya, Indonesia, organized by Faculty of Economics and Business, Universitas Airlangga."
+      }
+    },
+    {
+      "model": "research.conference",
+      "pk": 5,
+      "fields": {
+        "user": 2,
+        "title": "International Postgraduate Research Symposium 2023",
+        "short_title": "INPOS 2023",
+        "link": null,
+        "organizers": "School of Management, Universiti Sains Malaysia",
+        "date": "2023-10-26",
+        "description": "International Postgraduate Research Symposium 2023 organized by School of Management, Universiti Sains Malaysia."
+      }
+    }
+  ]
