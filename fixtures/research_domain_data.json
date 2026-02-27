@@ -1,0 +1,47 @@
+[
+    {
+      "model": "research.researchdomain",
+      "pk": 1,
+      "fields": {
+        "user": 2,
+        "title": "Financial Institutions and Markets",
+        "description": "Analysis of the structure, behavior, and performance of financial institutions and markets, with a focus on efficiency, regulation, and their role in economic development."
+      }
+    },
+    {
+      "model": "research.researchdomain",
+      "pk": 2,
+      "fields": {
+        "user": 2,
+        "title": "Microfinance",
+        "description": "Study of microfinance institutions and instruments aimed at providing financial services to underserved populations, emphasizing sustainability, outreach, and impact on poverty reduction."
+      }
+    },
+    {
+      "model": "research.researchdomain",
+      "pk": 3,
+      "fields": {
+        "user": 2,
+        "title": "Financial Inclusion",
+        "description": "Research on access to and usage of formal financial services, examining policy frameworks, digital finance, and inclusion strategies for marginalized and low-income groups."
+      }
+    },
+    {
+      "model": "research.researchdomain",
+      "pk": 4,
+      "fields": {
+        "user": 2,
+        "title": "Corporate Governance",
+        "description": "Investigation of governance mechanisms, ownership structures, and board dynamics, and their effects on firm performance, accountability, and stakeholder protection."
+      }
+    },
+    {
+      "model": "research.researchdomain",
+      "pk": 5,
+      "fields": {
+        "user": 2,
+        "title": "Risk Management",
+        "description": "Assessment of financial, operational, and market risks faced by firms and financial institutions, focusing on measurement, mitigation strategies, and regulatory compliance."
+      }
+    }
+  ]

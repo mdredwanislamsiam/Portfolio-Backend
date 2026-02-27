@@ -9,7 +9,7 @@ class Research(models.Model):
     description = models.TextField()
     link = models.URLField(null=True, blank=True)
     researchers = models.TextField()
-    date = models.DateField(null=True, blank=True)
+    date = models.DateField()
     journal = models.CharField(max_length=200)
     volume_page = models.CharField(max_length=200, null=True, blank=True)
     

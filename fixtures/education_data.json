@@ -1,0 +1,41 @@
+[
+    {
+        "model": "resume.education",
+        "pk": 1,
+        "fields": {
+            "user": 2,
+            "degree": "Ph.D. in Finance",
+            "start_time": "2020-01-01",
+            "end_time": null,
+            "cgpa": "3.80",
+            "institution": "Universiti Sains Malaysia",
+            "description": "Currently pursuing Ph.D. at the School of Management, Universiti Sains Malaysia. Also working as a Graduate Research Assistant (GRA)."
+        }
+    },
+    {
+        "model": "resume.education",
+        "pk": 2,
+        "fields": {
+            "user": 2,
+            "degree": "MBA in Finance",
+            "start_time": "2013-01-01",
+            "end_time": "2014-12-31",
+            "cgpa": "3.75",
+            "institution": "Jagannath University, Dhaka, Bangladesh",
+            "description": "Completed MBA from Jagannath University. Later joined the same university as a lecturer in 2016 and continued academic career in the Finance Department."
+        }
+    },
+    {
+        "model": "resume.education",
+        "pk": 3,
+        "fields": {
+            "user": 2,
+            "degree": "BBA in Finance",
+            "start_time": "2009-01-01",
+            "end_time": "2012-12-31",
+            "cgpa": "3.70",
+            "institution": "Jagannath University, Dhaka, Bangladesh",
+            "description": "Completed BBA from Jagannath University with a focus on finance and financial sector research foundations."
+        }
+    }
+]
