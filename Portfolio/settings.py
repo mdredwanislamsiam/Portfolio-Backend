@@ -163,7 +163,7 @@ cloudinary.config(
 
 SIMPLE_JWT = {
     'AUTH_HEADER_TYPES': ('JWT',),
-    "ACCESS_TOKEN_LIFETIME": timedelta(days=50),
+    "ACCESS_TOKEN_LIFETIME": timedelta(days=7),
 }
 
 REST_FRAMEWORK = {
@@ -211,4 +211,5 @@ MEDIA_ROOT = BASE_DIR/'media'
 CORS_ALLOWED_ORIGINS = [
     "http://localhost:5173",
     "https://portfolio-ih.vercel.app", 
+    "https://mdimranhossain.vercel.app",
 ]
